@@ -1,0 +1,27 @@
+h1{
+    text-align:center;
+    font-size: 6vh;
+}
+div{
+    background-color: rgb(255, 233, 237);
+    border: 1.5mm solid rgb(237, 120, 140);
+    border-radius: 1.5vh;
+    font-size: 3vh;
+    height:95vh;
+    margin:2% 2% 2% 2%;
+    text-align: center;
+}
+button{
+    background-color: rgb(237, 120, 140);
+    color: rgb(255, 255, 255);
+    display: block;
+    font-size: 2vh;
+    margin: 25% 25% 25% 45%;
+}
+input{
+    font-size: 3vh;
+    border:1.5mm solid rgb(237, 120, 140);
+    border-radius: 1.5vh;
+    margin: 10% 25% 0% 25%;
+    text-align: center;
+}
